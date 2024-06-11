@@ -33,6 +33,8 @@ public class MatrixOperationViewController
          selectOperationComboBox.getItems().addAll("Addition","Substruction","Transpose","Multiply");
     }
 ////////Sabab joy bangla;
+
+    //come to bd
     @javafx.fxml.FXML
     public void executeOperationOnAction(ActionEvent actionEvent) {
 
